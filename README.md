@@ -2,7 +2,7 @@
 <h2>Eu me chamo Pablo e esse é meu perfil no GitHub</h2>
 <h3>Sou um estudante novato de tecnogia :baby:</h3>
 <h3>Estudando atualmente logica de programação :books::computer:</h3>
-<h3>Trabalho atualmente em uma sorveteria :icecream:
+<h3>Trabalho atualmente em uma sorveteria :icecream:</h3>
 
 ##
 ## Linguagens :space_invader:
@@ -13,6 +13,7 @@
 </div>
 
 ##
+
 ![Pablo GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloAuguusto&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
