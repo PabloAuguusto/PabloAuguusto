@@ -3,6 +3,7 @@
 <h3>• Sou um estudante novato de tecnogia :baby:
 <h3>• Estudando atualmente logica de programação :books::computer:</h3>
 <h3>• Trabalho atualmente em uma sorveteria :icecream:</h3>
+    
 #
 <h2>• Linguagens :space_invader:</h2>
 <div style="display: inline_block"><br>
